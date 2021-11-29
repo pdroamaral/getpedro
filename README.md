@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pivoamrl, im a senior developer based in brazil
+- 👀 I’m interested in Golang, java and Python.
+- 🌱 I’m currently learning elixir and clojure.
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me on e-mail : pivoamaral@gmail.com    
