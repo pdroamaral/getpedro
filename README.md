@@ -4,10 +4,6 @@ Developer with refactoring habit. Like to learn, teach, help and solve mathemati
 
 
 <a href="https://github.com/pedroamrl">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piamrl&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/pedroamrl">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piamrl&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
