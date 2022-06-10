@@ -7,16 +7,3 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piamrl&show_icons=true&theme=gruvbox&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://amrl.co/
-[twitter]: https://twitter.com/pivoral
-[youtube]: https://www.youtube.com//
-[instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/getderivedpedro/
-<br>
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-
